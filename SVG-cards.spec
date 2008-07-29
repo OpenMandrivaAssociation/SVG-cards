@@ -1,6 +1,6 @@
 %define name SVG-cards
 %define version 2.0
-%define release %mkrel 2
+%define release %mkrel 4
  
 Summary: A set of playing cards in SVG
 Name: %name
