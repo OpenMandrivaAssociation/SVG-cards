@@ -8,7 +8,7 @@ Version: %version
 Release: %release
 Group: Games/Cards
 License: LGPL
-Url:	 http://david.bellot.free.fr/svg-cards/files
+Url:	 https://david.bellot.free.fr/svg-cards/files
 Source: http://david.bellot.free.fr/svg-cards/files/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-buildroot
 Buildarch: noarch
